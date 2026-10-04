@@ -1,0 +1,13 @@
+{
+  "triangles": 11092,
+  "vertices": 5642,
+  "bones": 30,
+  "non_hand_vertices_unchanged": true,
+  "hand_style": "single closed mitten surface with integrated thumb",
+  "digit_bones": "retained for compatibility, unused",
+  "unreal_import_tested": false,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "fbx_roundtrip": "PASS",
+  "hand_pose_numeric_check": "PASS"
+}
