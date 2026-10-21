@@ -1,0 +1,37 @@
+{
+  "clips": [
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_01",
+      "frames": 21,
+      "seconds": 0.7,
+      "file": "C:\\Users\\sunda\\Documents\\Unreal Projects\\ColorWars\\ArtSource\\Characters\\BaseSoldier\\SwordCombo\\AS_BaseSoldier_Attack_Sword_01.fbx"
+    },
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_02",
+      "frames": 21,
+      "seconds": 0.7,
+      "file": "C:\\Users\\sunda\\Documents\\Unreal Projects\\ColorWars\\ArtSource\\Characters\\BaseSoldier\\SwordCombo\\AS_BaseSoldier_Attack_Sword_02.fbx"
+    },
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_03",
+      "frames": 33,
+      "seconds": 1.1,
+      "file": "C:\\Users\\sunda\\Documents\\Unreal Projects\\ColorWars\\ArtSource\\Characters\\BaseSoldier\\SwordCombo\\AS_BaseSoldier_Attack_Sword_03.fbx"
+    }
+  ],
+  "sword_extent_cm": [
+    15.707000732421875,
+    215.19232177734375,
+    37.52237129211426
+  ],
+  "blade_local": [
+    -1.635273860767228e-11,
+    -0.9999998807907104,
+    -0.00047861249186098576
+  ],
+  "blade_hand": [
+    0.9347620606422424,
+    -0.17779360711574554,
+    -0.30758631229400635
+  ]
+}
