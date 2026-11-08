@@ -1,6 +1,11 @@
 # Base Soldier v3 - mani a guanto
 
-Aprire `CW_BaseSoldier_v3.blend`. Il file v2 e la sua esportazione sono conservati.
+Questa nota descrive la lavorazione v3. Nell'inventario del 5 novembre 2026,
+`CW_BaseSoldier_v3.blend`, la relativa esportazione FBX e il report
+`CW_BaseSoldier_v3_validation.json` non risultano presenti in `ArtSource`.
+Sono presenti `BaseSoldier_UE.blend`, `BaseSoldier_UE.fbx` e le anteprime v2/v3:
+la loro equivalenza con i sorgenti descritti qui non e stata verificata.
+Le descrizioni seguenti sono mantenute come documentazione storica della lavorazione.
 
 Le quattro dita di ciascuna mano sono sostituite da un volume arrotondato chiuso,
 con un piccolo pollice integrato nella stessa superficie. Colore e proporzioni del
@@ -14,7 +19,7 @@ L'importazione in Unreal non e stata ancora verificata.
 
 La collection nascosta `01_EDITABLE_PARTS` contiene anche le nuove mani sorgenti.
 La collection `02_CHARACTER_AND_RIG` contiene il personaggio completo.
-Le anteprime v3 sono nella cartella `Design/Characters` del progetto.
+Le anteprime v3 sono nella sottocartella `Design/Characters` di questa cartella.
 
 Per future prese di armi si potra adattare la posa della mano o creare una variante
 chiusa; questa versione presenta una forma rilassata senza dita individuali.

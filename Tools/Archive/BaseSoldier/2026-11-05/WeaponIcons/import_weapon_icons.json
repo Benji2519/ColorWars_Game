@@ -1,0 +1,38 @@
+{
+  "ImportGroups": [
+    {
+      "GroupName": "Sword Icons",
+      "Filenames": [
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Swords/Textures/T_Icon_Sword_01.png",
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Swords/Textures/T_Icon_Sword_02.png",
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Swords/Textures/T_Icon_Sword_03.png",
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Swords/Textures/T_Icon_Sword_04.png"
+      ],
+      "DestinationPath": "/Game/ColorWars/Items/Weapons/Swords/Textures",
+      "FactoryName": "TextureFactory",
+      "bReplaceExisting": true,
+      "bSkipReadOnly": true
+    },
+    {
+      "GroupName": "Shield Icons",
+      "Filenames": [
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Shields/Textures/T_Icon_Shield_01.png",
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/Shields/Textures/T_Icon_Shield_02.png"
+      ],
+      "DestinationPath": "/Game/ColorWars/Items/Weapons/Shields/Textures",
+      "FactoryName": "TextureFactory",
+      "bReplaceExisting": true,
+      "bSkipReadOnly": true
+    },
+    {
+      "GroupName": "Heavy Axe Icons",
+      "Filenames": [
+        "C:/Users/sunda/Documents/Unreal Projects/ColorWars/Content/ColorWars/Items/Weapons/HeavyAxes/Textures/T_Icon_HeavyAxe_01.png"
+      ],
+      "DestinationPath": "/Game/ColorWars/Items/Weapons/HeavyAxes/Textures",
+      "FactoryName": "TextureFactory",
+      "bReplaceExisting": true,
+      "bSkipReadOnly": true
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "ArchiveDate": "2026-11-05",
+  "Operation": "Verified copy; original files retained in Saved for existing workflows",
+  "HashAlgorithm": "SHA256",
+  "FileCount": 57,
+  "Files": [
+    {
+      "Source": "Saved/AutoScreenshot.png",
+      "Destination": "ArtSource/References/Screenshots/2026-11-05/AutoScreenshot.png",
+      "Category": "Screenshot storico",
+      "Bytes": 53206,
+      "SHA256": "A340C19BAA0A4CFCF81FE19B38DC4761FEC385B49194E5D5DE7F19D4AC3260CD"
+    },
+    {
+      "Source": "Saved/Codex/inspect_anim.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/inspect_anim.json",
+      "Category": "Report storico",
+      "Bytes": 91878,
+      "SHA256": "D4E2F0D0EF2AF1D86896BA54B4144EE8107E6A7BF0AA9439920B67B81EE309EE"
+    },
+    {
+      "Source": "Saved/Codex/inspect_anim.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/inspect_anim.py",
+      "Category": "Script storico",
+      "Bytes": 1778,
+      "SHA256": "F503985380743BEEF5C56A0409DC2313EE9EB8527E7B29D85E06B4452C125AE1"
+    },
+    {
+      "Source": "Saved/Codex/inspect_blender_rig.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/inspect_blender_rig.json",
+      "Category": "Report storico",
+      "Bytes": 6382,
+      "SHA256": "56D46F22C177AA70D7E20950F6A58064BBB0C7C46F624AE6BE63357C39129B5B"
+    },
+    {
+      "Source": "Saved/Codex/inspect_blender_rig.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/inspect_blender_rig.py",
+      "Category": "Script storico",
+      "Bytes": 640,
+      "SHA256": "E9BB2B0FD379F2F25899D92DFF8AD4849065BD84EC775F139217C974E7B07AE0"
+    },
+    {
+      "Source": "Saved/Codex/inspect_tracks.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/inspect_tracks.json",
+      "Category": "Report storico",
+      "Bytes": 18530,
+      "SHA256": "4656FDE8759F2F1BA5F885DD145466BCBCD7A570AD0E2B3025B5A01170C094C6"
+    },
+    {
+      "Source": "Saved/Codex/inspect_tracks.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/inspect_tracks.py",
+      "Category": "Script storico",
+      "Bytes": 1926,
+      "SHA256": "68125CC8547C3471C34FA3BAE9AB71A505D9D97322EF3958B06A5F4A5A3BC916"
+    },
+    {
+      "Source": "Saved/Codex/sword_materials.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_materials.py",
+      "Category": "Script storico",
+      "Bytes": 1741,
+      "SHA256": "3C4B8B0E2456E08C9731084F68253D1236B13593C306FDA770D69A1630FB1338"
+    },
+    {
+      "Source": "Saved/Codex/sword_prepare.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_prepare.py",
+      "Category": "Script storico",
+      "Bytes": 2475,
+      "SHA256": "8C9FD1439EB05E2E31DBCC8C7F7551640F1D2F42C88F43C9B7237549429E8F9C"
+    },
+    {
+      "Source": "Saved/Codex/sword_preview_info.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_preview_info.py",
+      "Category": "Script storico",
+      "Bytes": 1054,
+      "SHA256": "57669A5F9BAC44B6B6F0C1D97E354E319EF1D252D893E4473D53AC632E24869E"
+    },
+    {
+      "Source": "Saved/Codex/sword_revision_inspect.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_revision_inspect.py",
+      "Category": "Script storico",
+      "Bytes": 1529,
+      "SHA256": "640EFB5E47F79E49AE1EE5A573CCD2C2A84C614659F905006E011D386D6437E3"
+    },
+    {
+      "Source": "Saved/Codex/sword_revision_verify.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_revision_verify.py",
+      "Category": "Script storico",
+      "Bytes": 2654,
+      "SHA256": "33A6F6BA70E6EA04E9CC1D68D268AB27D22A6AD01B5877F6668A7FC79AAAA93F"
+    },
+    {
+      "Source": "Saved/Codex/sword_rig_info.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_rig_info.py",
+      "Category": "Script storico",
+      "Bytes": 865,
+      "SHA256": "6CA30D5DC987B787C9A434ED4E960B661B2020EEBFA3324AB9A2282BE798208F"
+    },
+    {
+      "Source": "Saved/Codex/sword_verify_saved.py",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/sword_verify_saved.py",
+      "Category": "Script storico",
+      "Bytes": 1947,
+      "SHA256": "89387E8B9989F62D5C8BB9A0BF20396A6E7E3C73A4772D9FB0486366F093FED3"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/import_report.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordCombo/import_report.json",
+      "Category": "Report storico",
+      "Bytes": 134621,
+      "SHA256": "86AC7DDE5A0E395054FD40E2107E31A393AB49CCC915C7DDB2F7252FABFFEB94"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/materials.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordCombo/materials.json",
+      "Category": "Report storico",
+      "Bytes": 18834,
+      "SHA256": "23D8BF5956A7CF3A7DFEF8D99E5ECBFD1E2DBABAC7C5DB3C4E2662A665422432"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/prepare.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordCombo/prepare.json",
+      "Category": "Report storico",
+      "Bytes": 29443,
+      "SHA256": "9C9B8FF2837EB8DF490A8B0C593A9A29CA71C01A0FF63FDAF700854618F5E186"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_000.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_000.png",
+      "Category": "Anteprima storica",
+      "Bytes": 452440,
+      "SHA256": "8AF351B0E7BF24A9E4CE4E355456F6AD93B7641DCACA1AA26E160941611F76B5"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_007.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_007.png",
+      "Category": "Anteprima storica",
+      "Bytes": 452151,
+      "SHA256": "13ED24734A1205823C0D2CE74BE3E8DD34E81C78D70D42377542FCCA717F7C4E"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_015.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_015.png",
+      "Category": "Anteprima storica",
+      "Bytes": 445038,
+      "SHA256": "24652E2A334564AEA1950FB83C37DF9E56EC793F7F5F49380EAF97C172835348"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_021.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_021.png",
+      "Category": "Anteprima storica",
+      "Bytes": 447773,
+      "SHA256": "9DAB364BAB4082F8042D26A14CFA4DE2AFF2605490780EA34024B294A54645FD"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_028.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_028.png",
+      "Category": "Anteprima storica",
+      "Bytes": 449275,
+      "SHA256": "22E02F793B7E1CD64636C66B0351706BED63E8316DA8F59B360B460EF6526124"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_035.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_035.png",
+      "Category": "Anteprima storica",
+      "Bytes": 449297,
+      "SHA256": "23D3F39DA4EAFB1015DA7EF3F2A456F7B64E99B4C8540FDB1ADA4C793C7519E8"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_042.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_042.png",
+      "Category": "Anteprima storica",
+      "Bytes": 451708,
+      "SHA256": "0563BBC6250A936772A9D9A46FC8F1E5AD70DE075E61B6ACD1B1DD48F27A0852"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_051.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_051.png",
+      "Category": "Anteprima storica",
+      "Bytes": 449680,
+      "SHA256": "C50C08401BCA577DFF9889177B809B4241FB000CF98771C298F52AB86C6B77DE"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_060.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_060.png",
+      "Category": "Anteprima storica",
+      "Bytes": 448507,
+      "SHA256": "ACF9CA28E3EEE79AB06C33ADBDA1E5AF465B7AEAED37E72507C5E3269EA677F9"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_065.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_065.png",
+      "Category": "Anteprima storica",
+      "Bytes": 450296,
+      "SHA256": "4FB6EED7033F77449ECA6B74FA2E79A59688568E037289E7294F0F8B94B6DF23"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_075.png",
+      "Destination": "ArtSource/Characters/BaseSoldier/SwordCombo/UnrealPreview/2026-11-05/preview_075.png",
+      "Category": "Anteprima storica",
+      "Bytes": 452440,
+      "SHA256": "162E5F639E36D8791FC3AC766D67448A16AC790EDBBC180AC381BEE1149B97FC"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/preview_info.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordCombo/preview_info.json",
+      "Category": "Report storico",
+      "Bytes": 1341,
+      "SHA256": "ECD2C24F4D71233DC1197B2054CF34D570F1EA449F6AD06BAD49E1A6796F3BC6"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_01.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_01.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 120652,
+      "SHA256": "5E2D89C1A12F650FA66A051B730769489F92B09E4EAD87B729CAC559F2443A15"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_02.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_02.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 108758,
+      "SHA256": "BF47C419601D379AF42AC928BC66F279528256B5B69F9BA73E426FE82ED709EE"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordCombo/previous_assets/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 151257,
+      "SHA256": "EE757DC213FEA0E611BB4D893F33B3FBF2CADB4BE0C37406D32B133CB92B7316"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/rig.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordCombo/rig.json",
+      "Category": "Report storico",
+      "Bytes": 39934,
+      "SHA256": "94505186879F79DB29F284C62DBAD24AD254B7C77F380E91A0163E90918B79BE"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/Sword_01.fbx",
+      "Destination": "ArtSource/Items/Weapons/Sword_01/UnrealExports/2026-11-05/Sword_01.fbx",
+      "Category": "Esportazione da Unreal",
+      "Bytes": 88864,
+      "SHA256": "6FB5C332ED7090C39D8A1902ADAD14A31E9539B4B495FF038148E5813B36064C"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/T_Opacity_O.png",
+      "Destination": "ArtSource/Items/Weapons/Sword_01/UnrealExports/2026-11-05/T_Opacity_O.png",
+      "Category": "Esportazione da Unreal",
+      "Bytes": 1225,
+      "SHA256": "618ACC42356EE153327E67A46B695EFE5C4C5778F11C6768E8D5AEEF394B47F3"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/T_Sword_Newbie_01_Bl_D.png",
+      "Destination": "ArtSource/Items/Weapons/Sword_01/UnrealExports/2026-11-05/T_Sword_Newbie_01_Bl_D.png",
+      "Category": "Esportazione da Unreal",
+      "Bytes": 3026560,
+      "SHA256": "4C23F46B084FE7599F17108D32673FD67E733263845EBA1FCE61CBD4D23187DA"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/T_Sword_Newbie_01_MR.png",
+      "Destination": "ArtSource/Items/Weapons/Sword_01/UnrealExports/2026-11-05/T_Sword_Newbie_01_MR.png",
+      "Category": "Esportazione da Unreal",
+      "Bytes": 5135579,
+      "SHA256": "5D503CB082BE2AEF65BE2FF80C7AE4347D5F1A7B58122BBA2299684D487F3E57"
+    },
+    {
+      "Source": "Saved/Codex/SwordCombo/T_Sword_Newbie_01_N.png",
+      "Destination": "ArtSource/Items/Weapons/Sword_01/UnrealExports/2026-11-05/T_Sword_Newbie_01_N.png",
+      "Category": "Esportazione da Unreal",
+      "Bytes": 3440257,
+      "SHA256": "5B83833B354DAC160E43D5998327E1A66F6468E6D8C1CC45B78372665606D356"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_01.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_01.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 111707,
+      "SHA256": "1A36CF686DE088B8894970C27E0C7673E25DE5E4AAF18433A440C1568D515B5F"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_02.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_02.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 112699,
+      "SHA256": "F64A9731DC8E92D746EE4DFF93010E1897E4CE55B24367EBD4E9627DFE10E293"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/before_revision/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 157850,
+      "SHA256": "264623EFDF5D83F270837DE9FB370CE6D8E8418E630C14BF203EF7F3E00EDE6B"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/import_report.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordComboRevision/import_report.json",
+      "Category": "Report storico",
+      "Bytes": 541,
+      "SHA256": "3DE1A61A0E8E28DF00BC9D1EB40C03E67C600FD7E99A160027BC9668DB067267"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/montages_before_rebuild/AM_BaseSoldier_Attack_Sword_01.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/montages_before_rebuild/AM_BaseSoldier_Attack_Sword_01.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 16134,
+      "SHA256": "4A8CCE2BCBF94D0BD9DE1B36CB634A987FADBA0DD41D5740F9793A4509B8B76E"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/saved_verification.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordComboRevision/saved_verification.json",
+      "Category": "Report storico",
+      "Bytes": 1758,
+      "SHA256": "D6B0DFE7AE0C9EA7E590CB829BBCA573DF6C28BD64C22B567E1265B6B67D67BC"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/source.json",
+      "Destination": "Docs/Reports/2026-11-05/Codex/SwordComboRevision/source.json",
+      "Category": "Report storico",
+      "Bytes": 1604199,
+      "SHA256": "15F972381823670C87CC1A312BFB71CD1C364C786466EE7D1DFB0AE8AA0CE0F2"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/third_from_02_backup/AM_BaseSoldier_Attack_Sword_03.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/third_from_02_backup/AM_BaseSoldier_Attack_Sword_03.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 10435,
+      "SHA256": "99C4432644E294749CF3D517515CA5F9E2777A808AA669B7568A079899ED550D"
+    },
+    {
+      "Source": "Saved/Codex/SwordComboRevision/third_from_02_backup/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Destination": "ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision/third_from_02_backup/AS_BaseSoldier_Attack_Sword_03.uasset",
+      "Category": "Backup asset Unreal",
+      "Bytes": 114683,
+      "SHA256": "D65BB1DDA3A60AF1ACB5D29FFABD2B6A3B0C75F9EB4958B135ACA3615C9F3A8B"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/HeavyAxe_01.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/HeavyAxe_01.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 4004,
+      "SHA256": "9E7763D9FB8B9EEF5366BDBFBBC53315E5E08EFA883362F36184B21B708EAC6A"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/import_weapon_icons.json",
+      "Destination": "Tools/Archive/BaseSoldier/2026-11-05/WeaponIcons/import_weapon_icons.json",
+      "Category": "Configurazione importazione storica",
+      "Bytes": 1703,
+      "SHA256": "89633C3C3FA27ADD2366C4A0A8B480224A5A69083364F1C9E8CEE63C0BF56AB0"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Shield_01.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Shield_01.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 4415,
+      "SHA256": "98C72320BEC3AC6BEB64488D66ACD3E8A7D2433F6A1A624C481E746C2F69425A"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Shield_02.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Shield_02.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 4270,
+      "SHA256": "20D28DA4B5D95D7F2484C560BC4B740BDD5538A64F66E0A563A0EED7E4EC7363"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Sword_01_embedded_0.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Sword_01_embedded_0.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 3638,
+      "SHA256": "24781D271B74AF3C993419004A1C9FC568600C0A95B1B42249E7EC13F8255E5F"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Sword_01.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Sword_01.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 3638,
+      "SHA256": "24781D271B74AF3C993419004A1C9FC568600C0A95B1B42249E7EC13F8255E5F"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Sword_02.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Sword_02.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 3775,
+      "SHA256": "B9B199DB82E7D1C7F41E98A900FB8976413F3F54BA4451C95AB40B28F81DBEF6"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Sword_03.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Sword_03.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 3774,
+      "SHA256": "8F15681183528E0432D8A904CC7355CE836B4940E47196C07350C197477FA184"
+    },
+    {
+      "Source": "Saved/CodexWeaponRefs/Sword_04.jpg",
+      "Destination": "ArtSource/References/Weapons/2026-11-05/Sword_04.jpg",
+      "Category": "Riferimento arma",
+      "Bytes": 3686,
+      "SHA256": "521004822D2BF2C0103C3D85BCEDADA8C69453A05A711253D8252F337ED651F2"
+    },
+    {
+      "Source": "Saved/Screenshots/WindowsEditor/ScreenShot00000.png",
+      "Destination": "ArtSource/References/Screenshots/2026-11-05/WindowsEditor/ScreenShot00000.png",
+      "Category": "Screenshot storico",
+      "Bytes": 2397596,
+      "SHA256": "B3125C7F5261A2F2241BCA30E0B42F4C9B9ACF544CBA74604235D76E6AB9848F"
+    }
+  ]
+}

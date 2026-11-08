@@ -35,6 +35,7 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
+*.slnx
 *.suo
 *.opensdf
 *.sdf
@@ -50,16 +51,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
-# Builds
-Build/*
-
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
-
-# Don't ignore icon files in Build
-!Build/**/*.ico
+# Build/ may contain original packaging resources: keep it versionable.
+# Put distributable game packages in Releases/, not Build/.
+/Releases/
 
 # Built data for maps
 *_BuiltData.uasset
@@ -73,3 +67,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local Python environments and caches for project tools
+__pycache__/
+*.pyc
+/Tools/.venv/

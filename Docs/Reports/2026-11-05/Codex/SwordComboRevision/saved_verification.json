@@ -1,0 +1,52 @@
+{
+  "clips": [
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_01",
+      "source": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/AS_BaseSoldier_Attack_01.AS_BaseSoldier_Attack_01",
+      "duration": 1.0,
+      "errors": {
+        "<AnimDataEvalType.RAW: 1>": {
+          "max_cm": 0.00010852210324748432,
+          "max_degrees": 0.00026473041379201456
+        },
+        "<AnimDataEvalType.COMPRESSED: 2>": {
+          "max_cm": 0.00010852210324748432,
+          "max_degrees": 0.00026473041379201456
+        }
+      }
+    },
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_02",
+      "source": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/AS_BaseSoldier_Attack_02.AS_BaseSoldier_Attack_02",
+      "duration": 1.0,
+      "errors": {
+        "<AnimDataEvalType.RAW: 1>": {
+          "max_cm": 0.00012009103832515282,
+          "max_degrees": 0.0003886011503146728
+        },
+        "<AnimDataEvalType.COMPRESSED: 2>": {
+          "max_cm": 0.00012009103832515282,
+          "max_degrees": 0.0003886011503146728
+        }
+      }
+    },
+    {
+      "name": "AS_BaseSoldier_Attack_Sword_03",
+      "source": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/AS_BaseSoldier_Attack_03.AS_BaseSoldier_Attack_03",
+      "duration": 1.6666666269302368,
+      "errors": {
+        "<AnimDataEvalType.RAW: 1>": {
+          "max_cm": 0.00010925295632644413,
+          "max_degrees": 0.0005608688554308159
+        },
+        "<AnimDataEvalType.COMPRESSED: 2>": {
+          "max_cm": 0.00010925295632644413,
+          "max_degrees": 0.0005608688554308159
+        }
+      }
+    }
+  ],
+  "sword_preview_dependency": true,
+  "montages_verified": true,
+  "success": true
+}

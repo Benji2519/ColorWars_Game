@@ -1,5 +1,10 @@
 # BaseSoldier: combo con spada
 
+Questa e la versione storica iniziale. La documentazione successiva indica
+[SwordComboRevision](../SwordComboRevision/README.md) come revisione da usare.
+I dettagli degli asset Unreal sotto riportati descrivono la lavorazione originaria;
+non sono stati ricontrollati durante la riorganizzazione del 5 novembre 2026.
+
 Tre Animation Sequence originali, animate sul rig di BaseSoldier a 30 fps:
 
 | Asset | Movimento | Durata |
@@ -34,6 +39,8 @@ La spada rimane un asset separato: non viene incorporata nelle animazioni.
 - `BaseSoldier_SwordCombo_ContactSheet.png`: pose principali.
 
 Gli script di creazione, importazione e anteprima sono nella cartella superiore.
-Le tre copie precedenti sono conservate in
-`Saved/Codex/SwordCombo/previous_assets`, esternamente alla cartella Content.
-I report di verifica sono in `Saved/Codex/SwordCombo`.
+Le tre copie precedenti sono archiviate in
+`ArtSource/Archive/UnrealAssets/2026-11-05/SwordCombo/previous_assets`, fuori da Content.
+I report storici sono in `Docs/Reports/2026-11-05/Codex/SwordCombo` e i fotogrammi
+recuperati sono in `UnrealPreview/2026-11-05`, sotto questa cartella.
+Gli originali restano in `Saved/Codex/SwordCombo` per i flussi esistenti.

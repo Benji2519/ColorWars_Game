@@ -1,0 +1,18 @@
+{
+  "clips": [],
+  "success": true,
+  "montages": [
+    {
+      "asset": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/Sword/AM_BaseSoldier_Attack_Sword_01",
+      "seconds": 1.0
+    },
+    {
+      "asset": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/Sword/AM_BaseSoldier_Attack_Sword_02",
+      "seconds": 1.0
+    },
+    {
+      "asset": "/Game/ColorWars/Characters/BaseSoldier/Animations/Anim/Attack/Sword/AM_BaseSoldier_Attack_Sword_03",
+      "seconds": 1.6666666269302368
+    }
+  ]
+}

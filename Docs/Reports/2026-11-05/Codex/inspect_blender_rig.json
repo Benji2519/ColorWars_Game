@@ -1,0 +1,348 @@
+{
+  "objects": [
+    {
+      "name": "Belt",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Cuff.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Cuff.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Foot.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Foot.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Shaft.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Shaft.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Sole.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Boot_Sole.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Brow.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Brow.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Buckle_bottom",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Buckle_left",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Buckle_Pin",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Buckle_right",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Buckle_top",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Camera_Hero",
+      "type": "CAMERA",
+      "parent": null
+    },
+    {
+      "name": "Collar_Edge",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Cuirass",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Eye.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Eye.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Fill",
+      "type": "LIGHT",
+      "parent": null
+    },
+    {
+      "name": "Gorget_Edge",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Head",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Brow_Rim",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Center_Band",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Cheeks_and_Nape",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Crown",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Rivet.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Rivet.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Helmet_Skirt_Edge",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Key",
+      "type": "LIGHT",
+      "parent": null
+    },
+    {
+      "name": "Mitten_Source.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Mitten_Source.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Neck",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Nose",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Pauldron.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Pauldron.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Pauldron_Rim.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Pauldron_Rim.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "RIG_CW_BaseSoldier",
+      "type": "ARMATURE",
+      "parent": null
+    },
+    {
+      "name": "Rim",
+      "type": "LIGHT",
+      "parent": null
+    },
+    {
+      "name": "SK_CW_BaseSoldier_v3",
+      "type": "MESH",
+      "parent": "RIG_CW_BaseSoldier"
+    },
+    {
+      "name": "Sleeve.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Sleeve.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Studio_Ground",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Trousers.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Trousers.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Tunic_Hem",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace_Edge_0.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace_Edge_0.R",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace_Edge_3.L",
+      "type": "MESH",
+      "parent": null
+    },
+    {
+      "name": "Vambrace_Edge_3.R",
+      "type": "MESH",
+      "parent": null
+    }
+  ],
+  "armatures": {
+    "RIG_CW_BaseSoldier": {
+      "bones": [
+        "root",
+        "pelvis",
+        "spine",
+        "chest",
+        "neck",
+        "head",
+        "clavicle.L",
+        "upper_arm.L",
+        "forearm.L",
+        "hand.L",
+        "finger_0.L",
+        "finger_1.L",
+        "finger_2.L",
+        "finger_3.L",
+        "thumb.L",
+        "clavicle.R",
+        "upper_arm.R",
+        "forearm.R",
+        "hand.R",
+        "finger_0.R",
+        "finger_1.R",
+        "finger_2.R",
+        "finger_3.R",
+        "thumb.R",
+        "thigh.L",
+        "shin.L",
+        "foot.L",
+        "thigh.R",
+        "shin.R",
+        "foot.R"
+      ],
+      "pose_bones": [
+        "root",
+        "pelvis",
+        "spine",
+        "chest",
+        "neck",
+        "head",
+        "clavicle.L",
+        "upper_arm.L",
+        "forearm.L",
+        "hand.L",
+        "finger_0.L",
+        "finger_1.L",
+        "finger_2.L",
+        "finger_3.L",
+        "thumb.L",
+        "clavicle.R",
+        "upper_arm.R",
+        "forearm.R",
+        "hand.R",
+        "finger_0.R",
+        "finger_1.R",
+        "finger_2.R",
+        "finger_3.R",
+        "thumb.R",
+        "thigh.L",
+        "shin.L",
+        "foot.L",
+        "thigh.R",
+        "shin.R",
+        "foot.R"
+      ]
+    }
+  },
+  "actions": []
+}

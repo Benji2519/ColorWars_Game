@@ -1,5 +1,9 @@
 # Combo spada derivata dagli attacchi unarmed
 
+Nota del 5 novembre 2026: i risultati descritti qui appartengono alla lavorazione
+originaria. La riorganizzazione della directory principale conserva i report,
+senza eseguire nuovamente l'importazione o le verifiche degli asset in Unreal.
+
 Le tre Sequence sono adattamenti di AS_BaseSoldier_Attack_01, 02 e 03.
 Conservano frame rate, durata, Root Motion, passi e tracce di gambe, bacino,
 busto, testa e clavicole. Le modifiche riguardano braccia, mani e presa.
@@ -25,7 +29,11 @@ il personaggio e pavimento a scacchi per rendere visibile il movimento.
 
 `BaseSoldier_SwordCombo_Adapted.blend` contiene le azioni modificabili.
 `adapted_keys.json` contiene le sole modifiche delle braccia nel riferimento Unreal.
-I report di controllo delle tracce e rilettura dei file salvati sono in
-`Saved/Codex/SwordComboRevision`.
-La vecchia versione creata da zero resta nella cartella ArtSource/SwordCombo;
-questa cartella SwordComboRevision contiene la revisione da usare.
+I report storici di controllo delle tracce e rilettura dei file salvati sono in
+`Docs/Reports/2026-11-05/Codex/SwordComboRevision`.
+Le copie precedenti degli asset sono in
+`ArtSource/Archive/UnrealAssets/2026-11-05/SwordComboRevision`.
+Gli originali restano in `Saved/Codex/SwordComboRevision` per i flussi esistenti.
+La vecchia versione creata da zero resta nella cartella sorella `SwordCombo`;
+questa cartella `SwordComboRevision` contiene la revisione da usare secondo
+la documentazione della lavorazione originaria.
